@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on web programing
+- 🌱 I’m currently learning github
+- 📫 How to reach me: @alexgarciia_ on twitter
+
+
 <!--
 **alexgrcia/alexgrcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
